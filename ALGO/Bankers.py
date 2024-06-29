@@ -6,7 +6,6 @@ if __name__=="__main__":
 	# P0, P1, P2, P3, P4 are the Process names here
 	n = 5 # Number of processes
 	m = 3 # Number of resources
-	
 	# Allocation Matrix
 	alloc = [[0, 1, 0 ],[ 2, 0, 0 ],
 			[3, 0, 2 ],[2, 1, 1] ,[ 0, 0, 2]]
